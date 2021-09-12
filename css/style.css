@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+.cart {
+  display: inline-block;
+  width: 30%;
+  height: 200px;
+  border-radius: 5px;
+  border: 1px #ccc solid;
+  box-shadow: 0 0 10px #ccc;
+  margin: 10px;
+}
+.cart .title {
+  background-color: #ddd;
+  height: 25px;
+  font-size: 105%;
+  font-weight: bold;
+  padding: 3px;
+}
+.cart .body {
+  margin: 5px;
+  height: 160px;
+}
+.cart .body .text {
+  height: 80%;
+}
+.cart .body .link {
+  height: 20%;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
