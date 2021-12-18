@@ -1,3 +1,3 @@
 User-Agent: *
-Disallow: 
-Host: kas-cor.ru
+Disallow:
+Host: kas-cor.github.io
